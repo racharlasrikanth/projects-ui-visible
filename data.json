@@ -1,0 +1,151 @@
+{
+    "results": [
+        {
+            "id": 1,
+            "projectName": "Color Spinner",
+            "url": "https://color-spinner-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/color-spinner.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/01-color-spinner"
+        },
+        {
+            "id": 2,
+            "projectName": "Ice Cream Counter",
+            "url": "https://icecream-counter-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/icecream-counter.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/02-icecream-counter"
+        },
+        {
+            "id": 3,
+            "projectName": "Google Meet Reviews",
+            "url": "https://google-meet-reviews-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/google-meet-reviews.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/03-google-meet-reviews"
+        },
+        {
+            "id": 4,
+            "projectName": "Responsive Navbar",
+            "url": "https://responsive-nav-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/responsive-navbar.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/04-responsive-navbar"
+        },
+        {
+            "id": 5,
+            "projectName": "Responsive Sidebar",
+            "url": "https://responsive-sidebar-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/responsive-sidebar.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/05-sidebar"
+        },
+        {
+            "id": 6,
+            "projectName": "Modal Dialog",
+            "url": "https://modal-dialog-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/modal-dialog.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/06-modal-dialog"
+        },
+        {
+            "id": 7,
+            "projectName": "Google Frequently Asked Questions",
+            "url": "https://google-frequently-asked-questions-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/google-frequently-asked-questions.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/07-frequently-asked-questions"
+        },
+        {
+            "id": 8,
+            "projectName": "Hotel Menu",
+            "url": "https://hotel-menu-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/hotel-menu.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/08-hotel-menu"
+        },
+        {
+            "id": 9,
+            "projectName": "Lucky Video",
+            "url": "https://lucky-video-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/lucky-video-project.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/09-lucky-video"
+        },
+        {
+            "id": 10,
+            "projectName": "Vanilla Scrolling",
+            "url": "https://vannila-scrolling-js.netlify.app/",
+            "thumbnail": "",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/10-vannila-scrolling"
+        },
+        {
+            "id": 11,
+            "projectName": "Google Meet Tabs",
+            "url": "https://google-meet-tabs-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/google-meet-tabs.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/11-google-meet-tabs"
+        },
+        {
+            "id": 12,
+            "projectName": "Apple Phone Event",
+            "url": "https://apple-phone-event-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/apple-event.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/12-apple-phone-event"
+        },
+        {
+            "id": 13,
+            "projectName": "Lorem Ipsum Generator",
+            "url": "https://lorem-ipsum-gen-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/lorem-ipsum-gen.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/13-lorem-ipsum-gen"
+        },
+        {
+            "id": 14,
+            "projectName": "Microsoft Todo List",
+            "url": "https://microsoft-todo-list-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/todo-list-microsoft.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/14-microsoft-todo-list"
+        },
+        {
+            "id": 15,
+            "projectName": "Vanilla Slider",
+            "url": "https://vanilla-slider-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/slider.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/15-slider"
+        },
+        {
+            "id": 16,
+            "projectName": "Random Quotes",
+            "url": "https://random-quotes-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/radom-quotes.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/16-random-quotes"
+        },
+        {
+            "id": 17,
+            "projectName": "Random User",
+            "url": "https://random-user-project-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/radom-user.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/17-random-user"
+        },
+        {
+            "id": 18,
+            "projectName": "Get Fav Drink Cocktail",
+            "url": "https://get-fav-drink-cocktail-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/cocktails-get-fav-drink.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/18-get-fav-drink-new"
+        },
+        {
+            "id": 19,
+            "projectName": "ES6 Modern Slider",
+            "url": "https://es6-modern-slider-js.netlify.app/",
+            "thumbnail": "https://srikanth-projects-images.netlify.app/JavaScriptDataImg/slider.PNG",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/19-es6-slider"
+        },
+        {
+            "id": 20,
+            "projectName": "Stripe Submenus",
+            "url": "https://stripe-submenus-js.netlify.app/",
+            "thumbnail": "",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/20-stripe-submenus"
+        },
+        {
+            "id": 21,
+            "projectName": "Pagination",
+            "url": "https://pagination-project-js.netlify.app/",
+            "thumbnail": "",
+            "gitUrl": "https://github.com/racharlasrikanth/javascript-projects-for-course/tree/srikanth/21-pagination"
+        }
+    ]
+}
